@@ -84,8 +84,8 @@ author:
   avatar           : "profile.jpg"
   bio              : "Fault-Tolerant Computing"
   location         : "Pittsburgh, Pennsylvania"
-  employer         : "University of Pittsburgh - National Science Foundation Center for Space, High-Performance, and Resilent Computing (NSF-SHREC)"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : "University of Pittsburgh"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=9kOdyToAAAAJ&hl=en"
   email            : "TylerMG26@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
