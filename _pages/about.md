@@ -13,7 +13,8 @@ I'm a PhD Candidate at the University of Pittsburgh studying Electrical & Comput
 
 My research interests are fault-tolerant computing, reliable machine learning, and computer architecture.  
 
-"“There is only one way to learn. It’s through action. Everything you need to know you have learned through your journey.” -Paulo Coelho, The Alchemist  
+"There is only one way to learn. It’s through action. Everything you need to know you have learned through your journey.”  
+-Paulo Coelho, The Alchemist  
 
 # Selected Experience
 ## NASA
@@ -28,19 +29,23 @@ Projects: [Radiation-Tolerant Display System](#radiation-tolerant-display-system
 ### Radiation-Tolerant Display System
 
 ![SCC2023 Talk](/images/scc23_talk.jpg){:.align-left width="300px"}
-Lead system architect for a radiation-tolerant display system prototype at NASA for future astronaut displays. Developed a modular and scalable solution for spacesuits, rovers, and spacecraft which balances high-performance computing with radiation-tolerance. Constructed and managed a multi-phase development plan starting with a table-top demonstration evolving to engineering and flight models. 
+Lead system architect for a radiation-tolerant display system prototype at NASA for future astronaut displays.  
+Developed a modular and scalable solution for spacesuits, rovers, and spacecraft which balances high-performance computing with radiation-tolerance.  
+Constructed and managed a multi-phase development plan starting with a table-top demonstration evolving to engineering and flight models.  
+
+Presented at the 2023 IEEE Space Computing Conference. Cal Tech, Pasadena, CA.
 
 Presentation:
 [Towards A Radiation-Tolerant Display System](https://ntrs.nasa.gov/citations/20230008652)
 
 ### JointAR
-![JointAR HUT](/images/JointAR_hut.jpg){:.align-right width="250px"}
+![JointAR HUT](/images/JointAR_hut.jpg){:.align-right width="300px"}
 
 Served as a fault-tolerant computing researcher, avionics lead, and software engineer for the Joint Augumented Reality Visual Informatics System (Joint AR).  
 
 Joint AR explores how a near-eye augmented reality display might be fielded as a centralized information display upon which crew can make mission decisions while performing extravehicular activity (EVA).  
 
-Researched methods for handling soft-errors for graphics processing.  
+Researched methods for handling soft-errors for graphics-processing applications.  
 
 Implemented an advanced gesture-based control scheme for the next generation spacesuits (xEMU) Heads-In Display leveraging computer vision and machine learning techniques in a resource-constrained embedded system.  
 
