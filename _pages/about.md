@@ -14,9 +14,13 @@ My research interests are fault-tolerant computing, reliable machine learning, a
 
 # Selected Experience
 ## NASA
-Since 2019, I have had the privilege of interning at a several NASA centers and contribute to a variety of projects.
+Since 2019, I have had the privilege of interning at a several NASA centers and contributed to a variety of projects.  
 
+2019: NASA Langley - Safety-Critical Avionic Systems Branch - Research Intern
+Project: Autonomous Freeflyers for Spacecraft Inspection  
 
+2020-Present: NASA Johnson Space Center - Human Interface Branch- Graduate Pathways Intern
+Projects: [Radiation-Tolerant Display System](#radiation-tolerant-display-system) & [JointAR](#jointar)
 
 ### Radiation-Tolerant Display System
 
@@ -44,7 +48,7 @@ National Science Foundation Center for Space, High-Performance, and Resilient Co
 My graduate studies
 [SHREC Website](https://nsf-shrec.org/)
 ## CASPR
-
+![CASPR](/images/caspr.jpg){:.align-right width="200px"}
 ![STP-H7](/images/stp-h7-pallet.png)
 Click here to learn more about: [CASPR Website](https://caspr.space/) & [News Article](https://news.engineering.pitt.edu/caspr-celebrates-one-year-aboard-the-iss/)
 
