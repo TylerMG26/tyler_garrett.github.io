@@ -16,19 +16,20 @@ My research interests are fault-tolerant computing, reliable machine learning, a
 ## NASA
 Since 2019, I have had the privilege of interning at a several NASA centers and contributed to a variety of projects.  
 
-2019: NASA Langley - Safety-Critical Avionic Systems Branch - Research Intern
-Project: Autonomous Freeflyers for Spacecraft Inspection  
+**2019:         NASA Langley - Safety-Critical Avionic Systems Branch - Research Intern  
+Project: [Autonomous Freeflyers for Spacecraft Inspection](#autonomous-freeflyers-for-spacecraft-inspection)  
 
 2020-Present: NASA Johnson Space Center - Human Interface Branch- Graduate Pathways Intern
 Projects: [Radiation-Tolerant Display System](#radiation-tolerant-display-system) & [JointAR](#jointar)
 
 ### Radiation-Tolerant Display System
+Lead system architect for a radiation-tolerant display system prototype at NASA for future astronaut displays. Developed a modular and scalable solution for spacesuits, rovers, and spacecraft which balances high-performance computing with radiation-tolerance. Constructed and managed a multi-phase development plan starting with a table-top demonstration evolving to engineering and flight model. 
 
 Presentation:
 [Towards A Radiation-Tolerant Display System](https://ntrs.nasa.gov/citations/20230008652)
 
 ### JointAR
-![JointAR HUT](/images/JointAR_hut.jpg){:.align-right width="300px"}
+![JointAR HUT](/images/JointAR_hut.jpg){:.align-right width="250px"}
 
 Publication:
 [Trades, Architecture, and Design of the Joint Augmented Reality Visual Informatics System (Joint AR) Product](https://ntrs.nasa.gov/citations/20230010234)
@@ -53,5 +54,5 @@ My graduate studies
 Click here to learn more about: [CASPR Website](https://caspr.space/) & [News Article](https://news.engineering.pitt.edu/caspr-celebrates-one-year-aboard-the-iss/)
 
 ## Radition Testing
-![Los Almaos National Labs](/images/lansce_2019.jpg)
+![Los Almaos National Labs](/images/lansce_2019.jpg){:.align-right width="300px"}
 
