@@ -41,7 +41,7 @@ Presentation:
 [Towards A Radiation-Tolerant Display System](https://ntrs.nasa.gov/citations/20230008652)
 
 ### JointAR
-![JointAR HUT](/images/JointAR_hut.jpg){:.align-right width="300px"}
+![JointAR HUT](/images/JointAR_hut.jpg){:.align-right width="400px"}
 
 Served as a fault-tolerant computing researcher, avionics lead, and software engineer for the Joint Augumented Reality Visual Informatics System (Joint AR).  
 
