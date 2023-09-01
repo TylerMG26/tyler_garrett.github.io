@@ -28,7 +28,7 @@ Projects: [Radiation-Tolerant Display System](#radiation-tolerant-display-system
 
 ### Radiation-Tolerant Display System
 
-![SCC2023 Talk](/images/scc23_talk.jpg){:.align-left width="300px"}
+![SCC2023 Talk](/images/scc23_talk.jpg){:.align-left width="400px"}
 Lead system architect for a radiation-tolerant display system prototype at NASA for future astronaut displays.
 
 Developed a modular and scalable solution for spacesuits, rovers, and spacecraft which balances high-performance computing with radiation-tolerance.  
@@ -41,7 +41,7 @@ Presentation:
 [Towards A Radiation-Tolerant Display System](https://ntrs.nasa.gov/citations/20230008652)
 
 ### JointAR
-![JointAR HUT](/images/JointAR_hut.jpg){:.align-right width="400px"}
+![JointAR HUT](/images/JointAR_hut.jpg){:.align-right width="300px"}
 
 Served as a fault-tolerant computing researcher, avionics lead, and software engineer for the Joint Augumented Reality Visual Informatics System (Joint AR).  
 
