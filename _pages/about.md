@@ -7,16 +7,20 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a PhD Candidate at the University of Pittsburgh.
+I'm a PhD Candidate at the University of Pittsburgh studying Electrical & Computer Engineering.
 
 My research interests are fault-tolerant computing, reliable machine learning, and computer architecture.
 
 
 # Selected Experience
 ## NASA
+Since 2019, I have had the privilege of interning at a several NASA centers and
+
+
 ### Radiation-Tolerant Display System
 
-
+Presentation:
+[Towards A Radiation-Tolerant Display System](https://ntrs.nasa.gov/citations/20230008652)
 
 ### JointAR
 ![JointAR HUT](/images/JointAR_hut.jpg){:.align-right width="300px"}
@@ -34,7 +38,7 @@ Publication:
 
 
 ## NSF-SHREC
-![SHREC logo](/images/shrec_logo.png){:.align-right width="300px"}
+![SHREC logo](/images/shrec_logo.png)
 National Science Foundation Center for Space, High-Performance, and Resilient Computing (NSF-SHREC)
 My graduate studies
 [SHREC Website](https://nsf-shrec.org/)
