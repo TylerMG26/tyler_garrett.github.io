@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-![Mission Control](/images/mcc_jsc.jpg){:.align-right width="300px"}
+![Mission Control](/images/mcc_jsc.jpg){:.align-right width="400px"}
 I'm a PhD Candidate at the University of Pittsburgh studying Electrical & Computer Engineering.
 
-My research interests are fault-tolerant computing, reliable machine learning, and computer architecture.
+My research interests are fault-tolerant computing, reliable machine learning, and computer architecture.  
 
 # Selected Experience
 ## NASA
@@ -24,7 +24,8 @@ Project: [Autonomous Freeflyers for Spacecraft Inspection](#autonomous-freeflyer
 Projects: [Radiation-Tolerant Display System](#radiation-tolerant-display-system) & [JointAR](#jointar)
 
 ### Radiation-Tolerant Display System
-![SCC2023 Talk](/images/scc23_talk.jpg){:.align-left width="250px"}
+
+![SCC2023 Talk](/images/scc23_talk.jpg){:.align-left width="300px"}
 Lead system architect for a radiation-tolerant display system prototype at NASA for future astronaut displays. Developed a modular and scalable solution for spacesuits, rovers, and spacecraft which balances high-performance computing with radiation-tolerance. Constructed and managed a multi-phase development plan starting with a table-top demonstration evolving to engineering and flight models. 
 
 Presentation:
@@ -32,6 +33,14 @@ Presentation:
 
 ### JointAR
 ![JointAR HUT](/images/JointAR_hut.jpg){:.align-right width="250px"}
+
+Served as a fault-tolerant computing researcher, avionics lead, and software engineer for the Joint Augumented Reality Visual Informatics System (Joint AR).  
+
+Joint AR explores how a near-eye augmented reality display might be fielded as a centralized information display upon which crew can make mission decisions while performing extravehicular activity (EVA).  
+
+Researched methods for handling soft-errors for graphics processing.  
+
+Implemented an advanced gesture-based control scheme for the next generation spacesuits (xEMU) Heads-In Display leveraging computer vision and machine learning techniques in a resource-constrained embedded system.  
 
 Publication:
 [Trades, Architecture, and Design of the Joint Augmented Reality Visual Informatics System (Joint AR) Product](https://ntrs.nasa.gov/citations/20230010234)
