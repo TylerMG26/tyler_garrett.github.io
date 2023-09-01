@@ -19,12 +19,12 @@ My research interests fault-tolerant computing, reliable machine learning, and c
 ### JointAR
 
 ## NSF-SHREC
-
-https://nsf-shrec.org/
+National Science Foundation Center for Space, High-Performance, and Resilient Computing (NSF-SHREC)
+[SHREC Website](https://nsf-shrec.org/)
 ## CASPR
 
-News Article: https://news.engineering.pitt.edu/caspr-celebrates-one-year-aboard-the-iss/
-Click here to learn more about CASPR: https://caspr.space/
+
+Click here to learn more about: [CASPR Website](https://caspr.space/) & [News Article](https://news.engineering.pitt.edu/caspr-celebrates-one-year-aboard-the-iss/)
 
 ## Radition Testing
 
