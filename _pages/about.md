@@ -28,7 +28,7 @@ Projects: [Radiation-Tolerant Display System](#radiation-tolerant-display-system
 
 ### Radiation-Tolerant Display System
 
-![SCC2023 Talk](/images/scc23_talk.jpg){:.align-left width="400px"}
+![SCC2023 Talk](/images/scc23_talk.jpg){:.align-left width="325x"}
 Lead system architect for a radiation-tolerant display system prototype at NASA for future astronaut displays.
 
 Developed a modular and scalable solution for spacesuits, rovers, and spacecraft which balances high-performance computing with radiation-tolerance.  
