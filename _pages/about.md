@@ -14,7 +14,8 @@ My research interests are fault-tolerant computing, reliable machine learning, a
 
 # Selected Experience
 ## NASA
-Since 2019, I have had the privilege of interning at a several NASA centers and
+Since 2019, I have had the privilege of interning at a several NASA centers and contribute to a variety of projects.
+
 
 
 ### Radiation-Tolerant Display System
@@ -38,15 +39,15 @@ Publication:
 
 
 ## NSF-SHREC
-![SHREC logo](/images/shrec_logo.png)
+![SHREC logo](/images/shrec_logo.png){:.align-right width="200px"}
 National Science Foundation Center for Space, High-Performance, and Resilient Computing (NSF-SHREC)
 My graduate studies
 [SHREC Website](https://nsf-shrec.org/)
 ## CASPR
 
-
+![STP-H7](/images/stp-h7-pallet.png)
 Click here to learn more about: [CASPR Website](https://caspr.space/) & [News Article](https://news.engineering.pitt.edu/caspr-celebrates-one-year-aboard-the-iss/)
 
 ## Radition Testing
-
+![Los Almaos National Labs](/images/lansce_2019.jpg)
 
