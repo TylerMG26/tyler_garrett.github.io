@@ -7,10 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+![Mission Control](/images/mcc_jsc.jpg){:.align-right width="300px"}
 I'm a PhD Candidate at the University of Pittsburgh studying Electrical & Computer Engineering.
 
 My research interests are fault-tolerant computing, reliable machine learning, and computer architecture.
-
 
 # Selected Experience
 ## NASA
@@ -23,6 +24,7 @@ Project: [Autonomous Freeflyers for Spacecraft Inspection](#autonomous-freeflyer
 Projects: [Radiation-Tolerant Display System](#radiation-tolerant-display-system) & [JointAR](#jointar)
 
 ### Radiation-Tolerant Display System
+![SCC2023 Talk](/images/scc23_talk.jpg){:.align-left width="250px"}
 Lead system architect for a radiation-tolerant display system prototype at NASA for future astronaut displays. Developed a modular and scalable solution for spacesuits, rovers, and spacecraft which balances high-performance computing with radiation-tolerance. Constructed and managed a multi-phase development plan starting with a table-top demonstration evolving to engineering and flight models. 
 
 Presentation:
@@ -45,28 +47,30 @@ Publication:
 
 
 ## NSF-SHREC
-![SHREC logo](/images/shrec_logo.png){:.align-right width="200px"}
+![SHREC logo](/images/shrec_logo.png){:.align-right width="250px"}
 My graduate research has been conducted at National Science Foundation Center for Space, High-Performance, and Resilient Computing (NSF-SHREC).  
 
-Primary Research: Researching fault-mitigation strategies for advanced computer architectures, GPUs, and other hardware accelerators for space applications.  
+Primary Research: Researching fault-mitigation strategies for radiation effects in advanced computer architectures, GPUs, and other hardware accelerators for space applications.  
 
 Latest Publication: [Resilient TensorFlow](https://ieeexplore.ieee.org/abstract/document/9546285)
 
 Anyone seeking to collaborate or become a member of SHREC, please reach out!  
 
 Links:  
-[SHREC Website](https://nsf-shrec.org/)  
-[SHREC LinkedIn](https://www.linkedin.com/company/nsf-center-for-space-high-performance-and-resilient-computing-shrec/)
+[SHREC Website](https://nsf-shrec.org/) & [SHREC LinkedIn](https://www.linkedin.com/company/nsf-center-for-space-high-performance-and-resilient-computing-shrec/)  
+
 ## CASPR
-![CASPR](/images/caspr.jpg){:.align-right width="200px"}
+![CASPR](/images/caspr.jpg){:.align-right width="250px"}
 Configurable and Autonomous Sensor Processing Research (CASPR) was designed to evaluate autonomous, onboard processing strategies on novel sensors and has been operating on the ISS since 2021 as part of the DoD/NASA Space Test Program – Houston 7 (STP-H7) mission.  
 
 I served as a hardware and software team member for CASPR an International Space Station (ISS) research experiment to study and evaluate novel technologies in sensors, computers, and intelligent applications for SmallSat-based sensing with autonomous data processing.  
 
-Lead GPU fault-tolerance sub-experiment.
+Lead GPU fault-tolerance sub-experiment.  
+
 ![STP-H7](/images/stp-h7-pallet.png)
-Click here to learn more about: [CASPR Website](https://caspr.space/) & [News Article](https://news.engineering.pitt.edu/caspr-celebrates-one-year-aboard-the-iss/)
+Click here to learn more: [CASPR Website](https://caspr.space/) & [News Article](https://news.engineering.pitt.edu/caspr-celebrates-one-year-aboard-the-iss/)
 
 ## Radition Testing
 ![Los Almaos National Labs](/images/lansce_2019.jpg){:.align-right width="300px"}
+Conducted radiation test campaigns to evaluate and characterize complex computing devices (System-on-chip, GPUs, TPUs, etc.) By understanding faults and failure modes of each device under test (DUT), mitigation strategies can be developed to enhance reliability. A variety of testing was conducted at Lawrence Berkeley National Laboratory (LBNL) for Total Ionizing Dose (TID) and Destructive Single-Event Effects (SEEs). Additional testing for non-destructive Single-Event Effects were conducted under neutron radiation at Los Alamos National Labs (LANL).
 
