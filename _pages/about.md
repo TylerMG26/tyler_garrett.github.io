@@ -13,6 +13,8 @@ I'm a PhD Candidate at the University of Pittsburgh studying Electrical & Comput
 
 My research interests are fault-tolerant computing, reliable machine learning, and computer architecture.  
 
+"“There is only one way to learn. It’s through action. Everything you need to know you have learned through your journey.” -Paulo Coelho, The Alchemist  
+
 # Selected Experience
 ## NASA
 Since 2019, I have had the privilege of interning at a several NASA centers and contributed to a variety of projects.  
@@ -46,7 +48,9 @@ Publication:
 [Trades, Architecture, and Design of the Joint Augmented Reality Visual Informatics System (Joint AR) Product](https://ntrs.nasa.gov/citations/20230010234)
 
 ### Autonomous Freeflyers for Spacecraft Inspection
-Designed and developed a multi-agent drone systems that utilized distributed computing and computer vision to simulate autonomous free flier inspection of spacecraft.  
+Designed and developed a multi-agent drone systems that utilized distributed computing and computer vision to simulate autonomous free flier inspection of spacecraft.
+
+![Langley Computer Vision](/images/langley_damage_detection.png)  
 
 Video:
 [Final Presentation](https://www.youtube.com/watch?v=HkSlrdOLu8I)
@@ -59,7 +63,9 @@ Publication:
 ![SHREC logo](/images/shrec_logo.png){:.align-right width="250px"}
 My graduate research has been conducted at National Science Foundation Center for Space, High-Performance, and Resilient Computing (NSF-SHREC).  
 
-Primary Research: Researching fault-mitigation strategies for radiation effects in advanced computer architectures, GPUs, and other hardware accelerators for space applications.  
+Primary Research: Researching fault-mitigation strategies for radiation effects in advanced computer architectures, GPUs, and other hardware accelerators for space applications.
+
+![SHREC SAW23](/images/shrec_saw23.png)  
 
 Latest Publication: [Resilient TensorFlow](https://ieeexplore.ieee.org/abstract/document/9546285)
 
@@ -81,5 +87,7 @@ Click here to learn more: [CASPR Website](https://caspr.space/) & [News Article]
 
 ## Radition Testing
 ![Los Almaos National Labs](/images/lansce_2019.jpg){:.align-right width="300px"}
-Conducted radiation test campaigns to evaluate and characterize complex computing devices (System-on-chip, GPUs, TPUs, etc.) By understanding faults and failure modes of each device under test (DUT), mitigation strategies can be developed to enhance reliability. A variety of testing was conducted at Lawrence Berkeley National Laboratory (LBNL) for Total Ionizing Dose (TID) and Destructive Single-Event Effects (SEEs). Additional testing for non-destructive Single-Event Effects were conducted under neutron radiation at Los Alamos National Labs (LANL).
+Conducted radiation test campaigns to evaluate and characterize complex computing devices (System-on-chip, GPUs, TPUs, etc.) By understanding faults and failure modes of each device under test (DUT), mitigation strategies can be developed to enhance reliability.  
+
+A variety of testing was conducted at Lawrence Berkeley National Laboratory (LBNL) for Total Ionizing Dose (TID) and Destructive Single-Event Effects (SEEs). Additional testing for non-destructive Single-Event Effects were conducted under neutron radiation at Los Alamos National Labs (LANL).
 
