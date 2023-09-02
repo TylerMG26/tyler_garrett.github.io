@@ -92,7 +92,7 @@ Lead GPU fault-tolerance sub-experiment.
 ![STP-H7](/images/stp-h7-pallet.png)
 Click here to learn more: [CASPR Website](https://caspr.space/) & [News Article](https://news.engineering.pitt.edu/caspr-celebrates-one-year-aboard-the-iss/)
 
-## Radition Testing
+## Radiation Testing
 ![Los Almaos National Labs](/images/lansce_2019.jpg){:.align-right width="300px"}
 Conducted radiation test campaigns to evaluate and characterize complex computing devices (System-on-chip, GPUs, TPUs, etc.) By understanding faults and failure modes of each device under test (DUT), mitigation strategies can be developed to enhance reliability.  
 
