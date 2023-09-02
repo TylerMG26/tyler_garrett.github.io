@@ -35,7 +35,7 @@ Developed a modular and scalable solution for spacesuits, rovers, and spacecraft
 Constructed and managed a multi-phase development plan starting with a table-top demonstration evolving to engineering and flight models.  
 
 ![SCC2023 Talk](/images/scc23_talk.jpg)
-*Presention at the 2023 IEEE Space Computing Conference. Cal Tech, Pasadena, CA.*
+*Presentation at the 2023 IEEE Space Computing Conference. Cal Tech, Pasadena, CA.*
 
 Presentation:
 [Towards A Radiation-Tolerant Display System](https://ntrs.nasa.gov/citations/20230008652)
@@ -43,7 +43,7 @@ Presentation:
 ### JointAR
 ![JointAR HUT](/images/JointAR_hut.jpg){:.align-right width="350px"}
 
-Served as a fault-tolerant computing researcher, avionics lead, and software engineer for the Joint Augumented Reality Visual Informatics System (Joint AR).  
+Served as a fault-tolerant computing researcher, avionics lead, and software engineer for the Joint Augmented Reality Visual Informatics System (Joint AR).  
 
 Joint AR explores how a near-eye augmented reality display might be fielded as a centralized information display upon which crew can make mission decisions while performing extravehicular activity (EVA).  
 
@@ -93,7 +93,7 @@ Lead GPU fault-tolerance sub-experiment.
 Click here to learn more: [CASPR Website](https://caspr.space/) & [News Article](https://news.engineering.pitt.edu/caspr-celebrates-one-year-aboard-the-iss/)
 
 ## Radiation Testing
-![Los Almaos National Labs](/images/lansce_2019.jpg){:.align-right width="300px"}
+![Los Alamos National Labs](/images/lansce_2019.jpg){:.align-right width="300px"}
 Conducted radiation test campaigns to evaluate and characterize complex computing devices (System-on-chip, GPUs, TPUs, etc.) By understanding faults and failure modes of each device under test (DUT), mitigation strategies can be developed to enhance reliability.  
 
 A variety of testing was conducted at Lawrence Berkeley National Laboratory (LBNL) for Total Ionizing Dose (TID) and Destructive Single-Event Effects (SEEs). Additional testing for non-destructive Single-Event Effects were conducted under neutron radiation at Los Alamos National Labs (LANL).
