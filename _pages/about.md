@@ -21,7 +21,7 @@ My research interests are fault-tolerant computing, reliable machine learning, a
 Since 2019, I have had the privilege of interning at a several NASA centers and contributed to a variety of projects.  
 
 2019:         NASA Langley - Safety-Critical Avionic Systems Branch - Research Intern  
-Project: [Autonomous Freeflyers for Spacecraft Inspection](#autonomous-freeflyers-for-spacecraft-inspection)  
+Project: [Autonomous Free Flyers for Spacecraft Inspection](#autonomous-free-flyers-for-spacecraft-inspection)  
 
 2020-Present: NASA Johnson Space Center - Human Interface Branch- Graduate Pathways Intern
 Projects: [Radiation-Tolerant Display System](#radiation-tolerant-display-system) & [JointAR](#jointar)
@@ -54,8 +54,8 @@ Implemented an advanced gesture-based control scheme for the next generation spa
 Publication:
 [Trades, Architecture, and Design of the Joint Augmented Reality Visual Informatics System (Joint AR) Product](https://ntrs.nasa.gov/citations/20230010234)
 
-### Autonomous Freeflyers for Spacecraft Inspection
-Designed and developed a multi-agent drone systems that utilized distributed computing and computer vision to simulate autonomous free flier inspection of spacecraft.
+### Autonomous Free Flyers for Spacecraft Inspection
+Designed and developed a multi-agent drone system that utilized distributed computing and computer vision to simulate autonomous free flyer inspection of spacecraft. Developed a suite of flight software (cFS) applications for guidance, navigation, and control (GNC) from low-level attitude control up to high-level drone autonomy (path planning, flight distribution, etc).
 
 ![Langley Computer Vision](/images/langley_damage_detection.png)  
 
