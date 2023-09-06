@@ -24,7 +24,7 @@ Since 2019, I have had the privilege of interning at a several NASA centers and 
 Project: [Autonomous Free Flyers for Spacecraft Inspection](#autonomous-free-flyers-for-spacecraft-inspection)  
 
 2020-Present: NASA Johnson Space Center - Human Interface Branch- Graduate Pathways Intern
-Projects: [Radiation-Tolerant Display System](#radiation-tolerant-display-system) & [JointAR](#jointar)
+Projects: [Radiation-Tolerant Display System](#radiation-tolerant-display-system) & [JointAR](#joint-ar)
 
 ### Radiation-Tolerant Display System
 
@@ -40,7 +40,7 @@ Constructed and managed a multi-phase development plan starting with a table-top
 Presentation:
 [Towards A Radiation-Tolerant Display System](https://ntrs.nasa.gov/citations/20230008652)
 
-### JointAR
+### Joint AR
 ![JointAR HUT](/images/JointAR_hut.jpg){:.align-right width="350px"}
 
 Served as a fault-tolerant computing researcher, avionics lead, and software engineer for the Joint Augmented Reality Visual Informatics System (Joint AR).  
