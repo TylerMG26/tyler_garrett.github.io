@@ -11,7 +11,7 @@ redirect_from:
 ![Mission Control](/images/mcc_jsc.jpg){:.align-right width="400px"}
 I'm a researcher and engineer passionate about solving complex problems with innovative solutions.
 
-I received my PhD from the University of Pittsburgh where I studied studied Electrical & Computer Engineering.
+I studied Electrical and Computer Engineering at the University of Pittsburgh and received my PhD in 2024. 
 
 My research interests are fault-tolerant computing, reliable machine learning, computer architecture, and radiation effects on complex devices.  
 
