@@ -9,9 +9,11 @@ redirect_from:
 ---
 
 ![Mission Control](/images/mcc_jsc.jpg){:.align-right width="400px"}
-I'm a PhD Candidate at the University of Pittsburgh studying Electrical & Computer Engineering.
+I'm a researcher and engineer passionate about solving complex problems with innovative solutions.
 
-My research interests are fault-tolerant computing, reliable machine learning, and computer architecture.  
+I received my PhD from the University of Pittsburgh where I studied studied Electrical & Computer Engineering.
+
+My research interests are fault-tolerant computing, reliable machine learning, computer architecture, and radiation effects on complex devices.  
 
 "There is only one way to learn. It’s through action. Everything you need to know you have learned through your journey.”  
 -Paulo Coelho, The Alchemist  
@@ -68,7 +70,7 @@ Publication:
 
 ## NSF-SHREC
 ![SHREC logo](/images/shrec_logo.png){:.align-right width="250px"}
-My graduate research has been conducted at National Science Foundation Center for Space, High-Performance, and Resilient Computing (NSF-SHREC).  
+My graduate research was conducted at National Science Foundation Center for Space, High-Performance, and Resilient Computing (NSF-SHREC).  
 
 Primary Research: Researching fault-mitigation strategies for radiation effects in advanced computer architectures, GPUs, and other hardware accelerators for space applications.
 
