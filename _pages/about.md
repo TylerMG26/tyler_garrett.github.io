@@ -76,7 +76,7 @@ Primary Research: Researching fault-mitigation strategies for radiation effects 
 
 ![SHREC SAW23](/images/shrec_saw23.png)  
 
-Latest Publication: [Resilient TensorFlow](https://ieeexplore.ieee.org/abstract/document/9546285)
+Latest Publications: [Resilient TensorFlow](https://ieeexplore.ieee.org/abstract/document/9546285) & [Edge TPU Fault Mitigation](https://ieeexplore.ieee.org/abstract/document/10509002)
 
 Anyone seeking to collaborate or become a member of SHREC, please reach out!  
 
