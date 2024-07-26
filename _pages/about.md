@@ -74,6 +74,8 @@ My graduate research was conducted at National Science Foundation Center for Spa
 
 Primary Research: Researching fault-mitigation strategies for radiation effects in advanced computer architectures, GPUs, and other hardware accelerators for space applications.
 
+Designed and developed *Resilient TensorFlow*, a framework for scalable deployment of on-chip fault-mitigation to increase reliability of ML inference.
+
 ![SHREC SAW23](/images/shrec_saw23.png)  
 
 Latest Publications: [Resilient TensorFlow](https://ieeexplore.ieee.org/abstract/document/9546285) & [Edge TPU Fault Mitigation](https://ieeexplore.ieee.org/abstract/document/10509002)
